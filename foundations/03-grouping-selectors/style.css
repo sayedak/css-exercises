@@ -1,0 +1,17 @@
+/*Both classes having same font size and font family*/
+.b1,
+.b2 {
+    font-family: Georgia, Helvetica, 'Times New Roman', Times, serif, sans-serif;
+    font-size: 28px;
+}
+
+/*First element with black Bg*/
+.b1 {
+    background-color: #E1578A;
+}
+
+/*First element with light purple color Bg*/
+.b2 {
+    background-color: #916BBF;
+    color: white;
+}
