@@ -1,0 +1,11 @@
+/*First picture width scaled down to 300px with keeping the height auto*/
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+/*First picture width scaled down to 200px with keeping the height auto*/
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
