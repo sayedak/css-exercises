@@ -1,0 +1,28 @@
+/* rule for overall font */
+.body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* all the P element has the pink background */
+.p-share {
+    background-color: #FBA7A7;
+}
+
+/* this specific class has the font size increased */
+.p-share.cooler {
+    font-size: 24px;
+}
+
+/* the blue element */
+#blue-element {
+    color: #113CFC;
+    font-size: 36px;
+    font-weight: 500;
+}
+
+/* the green element */
+#green-element {
+    background-color: #77D970;
+    font-size: 24px;
+    font-weight: 700;
+}
